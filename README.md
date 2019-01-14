@@ -1,2 +1,3 @@
 # mlsftwrs-blog
-Raw blog posts in md form
+
+This repository contains the raw files for posts.
