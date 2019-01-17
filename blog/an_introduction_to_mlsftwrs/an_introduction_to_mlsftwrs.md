@@ -12,7 +12,7 @@
     #mobile_screen{
         width: 46%;
         margin: auto;
-        height: 80vh;
+        height: 70vh;
     }
     sup{
         color: red;
