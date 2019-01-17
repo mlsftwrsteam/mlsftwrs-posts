@@ -74,8 +74,8 @@ Once you type “mlsftwrs.ml” you are presented with the following screens: fi
 ![fig1.1][comp]
 fig1.1
 <div id="split_mobile">
-<img alt="fig1.2" id="mobile_screen" src="https://tinyurl.com/yceha9zh"/>
-<img alt="fig1.2" id="mobile_screen" src="https://tinyurl.com/yddvbbzx"/>
+<img alt="fig1.2" id="mobile_screen" src="https://tinyurl.com/y7u6f7yv"/>
+<img alt="fig1.2" id="mobile_screen" src="https://tinyurl.com/y8awccmy"/>
 </div>
 fig1.2
 
@@ -172,7 +172,7 @@ fig1.2
 
 ### Sources
 
-[comp]: https://tinyurl.com/ycs74b3x
+[comp]: https://tinyurl.com/ya5dlort
 
 <sup>1</sup>[https://www.itu.int/net4/itu-d/icteye/CountryProfileReport.aspx?countryID=150](https://www.itu.int/net4/itu-d/icteye/CountryProfileReport.aspx?countryID=150)
 
