@@ -1,7 +1,9 @@
 <style>
     ul{list-style-type:upper-roman;}
     img{
-        width: 100%;
+        width: 450px;
+        margin: auto;
+        text-align: center;
     }
     #split_mobile{
         display: flex;
@@ -10,7 +12,7 @@
     #mobile_screen{
         width: 46%;
         margin: auto;
-        height: 75vh;
+        height: 80vh;
     }
     sup{
         color: red;
@@ -75,6 +77,7 @@
 Once you type “mlsftwrs.ml” you are presented with the following screens: fig.1.1, fig.1.2 computer and mobile respectively.
 
 ![fig1.1][comp]
+
 fig1.1
 <div id="split_mobile">
 <img alt="fig1.2" id="mobile_screen" src="https://tinyurl.com/y7u6f7yv"/>
