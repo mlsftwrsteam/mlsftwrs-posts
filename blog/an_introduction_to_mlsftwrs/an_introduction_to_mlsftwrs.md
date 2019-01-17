@@ -1,10 +1,5 @@
 <style>
     ul{list-style-type:upper-roman;}
-    img{
-        width: 250px;
-        margin: auto;
-        text-align: center;
-    }
     #split_mobile{
         display: flex;
         flex-direction: row;
@@ -23,6 +18,13 @@
     em{
         font-weight: bolder;
         color: #ff6363;
+    }
+    @media only screen and (max-width: 825px){
+        img{
+            width: 250px;
+            margin: auto;
+            text-align: center;
+        }
     }
 </style>
 
