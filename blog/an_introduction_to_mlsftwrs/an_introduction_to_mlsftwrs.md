@@ -1,5 +1,10 @@
 <style>
     ul{list-style-type:upper-roman;}
+    img{
+        width: 100%;
+        margin: auto;
+        text-align: center;
+    }
     #split_mobile{
         display: flex;
         flex-direction: row;
