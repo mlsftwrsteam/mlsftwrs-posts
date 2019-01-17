@@ -1,5 +1,8 @@
 <style>
     ul{list-style-type:upper-roman;}
+    img{
+        width: 100%;
+    }
     #split_mobile{
         display: flex;
         flex-direction: row;
