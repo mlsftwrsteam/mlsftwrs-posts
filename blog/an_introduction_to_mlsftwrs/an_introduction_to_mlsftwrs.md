@@ -174,4 +174,5 @@ fig1.2
 
 [comp]: ./img/computer.png
 <sup>1</sup>[https://www.itu.int/net4/itu-d/icteye/CountryProfileReport.aspx?countryID=150](https://www.itu.int/net4/itu-d/icteye/CountryProfileReport.aspx?countryID=150)
+
 <sup>2</sup>[https://www.bbc.com/news/world-africa-13881978](https://www.bbc.com/news/world-africa-13881978)
