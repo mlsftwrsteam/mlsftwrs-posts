@@ -1,7 +1,7 @@
 <style>
     ul{list-style-type:upper-roman;}
     img{
-        width: 450px;
+        width: 250px;
         margin: auto;
         text-align: center;
     }
@@ -12,7 +12,7 @@
     #mobile_screen{
         width: 46%;
         margin: auto;
-        height: 70vh;
+        height: 60vh;
     }
     sup{
         color: red;
@@ -31,9 +31,9 @@
 ## Table of Contents
 
 - [The ml.sftwrs Initiative](#i.-the-ml.sftwrs-initiative)
-- [History](#ii.-ml.sftwrs(History)-→-idea-source-←)
+- [History](#ii.-ml.sftwrss)
 - [Philosophy](#iii.-philosophy)
-- [Navigation(ml.sftwrs.ml)](#iv.-navigation(mlsftwrs.ml))
+- [Navigation(mlsftwrs.ml)](#iv.-navigation)
 - [Objective & Plans](#v.-objective-and-plans)
 - [Fields of Interest](#vi.-field-of-interest)
 - [Who is ml.sftwrs for](#vii.-who-is-ml.sftwrs-for)
@@ -59,7 +59,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ml.sftwrs is here to challenge these situations. Not just internet connectivity problems, but ml.sftwrs pledges to simplify life for the every day folks, make operational processes much simpler for businesses, optimize government’s work through computational science. At this point I should point out that ml.sftwrs is computational model focused rather than product oriented, it attempts to standardize anything that is believe to contribute to the development of the nation, in a research and development approach(R&D). In using abilitiees in computational science, intelligent systems, automation, and computer networking ml.sftwrs works on advocating the implementation of computer systems in Malian life in a productive, and empowering manner.
 
-## II. ml.sftwrs(History) → idea source ←
+## II. ml.sftwrs
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ml.sftwrs idea first came to life after noticing that there is a lack of order in any of the areas that you really look into in the Malian government, especially after the sets of events<sup>2</sup> that occurred in 2012. Reading any publication relating to Mali was not only depressing, but majority of the issues expressed sounded fairly solvable using basic intuition, and or taking an analytical approach. Ultimately in the fall of 2015, I approached an actual government agency in an attempt to closely observe how they operate. This really opened my eyes as I found out that in 2015 a government agency did not have any IT infrastructure set in place. This included lack of internet connectivity, proper tools for the task required, or even an updated Windows Office(main program being used by the office), a secretary apparently had a windows 7 32-bit workstation, but she appeared to have no general systems knowledge, and only could fill out a Word form(important part of the agency’s work). To make matter’s even worse, I decided to design a windows based interface that had a much cleaner form, and setup two separate backup systems as the information being recorded was fairly sensitive, most importantly automate majority of the tasks required from saving to reporting in – to my surprise the office expressed that they prefer using the older method(Guaranteed that the platform was a bit buggy, still surprised nonetheless). As a result of this I really had to think of way to change this way of life. It is that brainstorming that led to the idea of ml.sftwrs.
 
@@ -73,7 +73,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ml.sftwrs follows the same model as most open-source projects, except that I have decided not to label it an open-source, or free software movement. ml.sftwrs aims to take a R&D approach in its works. Any of the projects published under the cover of ml.sftwrs will not be for-profit. All of the projects are concentrated on a single geographical area and that is Mali. The initiative aims to build models that will focus on a specific problem in Mali, and one problem at a time. Although I occasionally think of it as an open-research, the reality is that it is an individual research, self-funded, and worked on in my own time. This initiative has come to life as a passion project – hence it ought to only be worked on with that mindset. A passionate individual looking to make an actual change with their skillset.
 
-## IV. Navigation(mlsftwrs.ml)
+## IV. Navigation
 
 *A chrome browser is highly recommended.
 
