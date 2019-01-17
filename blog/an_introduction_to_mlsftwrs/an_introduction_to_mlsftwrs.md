@@ -1,7 +1,7 @@
 <style>
     ul{list-style-type:upper-roman;}
     img{
-        width: 100%;
+        width: 60%;
         margin: auto;
         text-align: center;
     }
