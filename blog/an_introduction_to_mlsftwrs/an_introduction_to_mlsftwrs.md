@@ -188,7 +188,7 @@ fig1.2(second image is the menu view)
 
 ## XI. Conclusion
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We’ve reached the conclusion of this introductory post, briefly ml.sftwrs is an initiative set in motions as a passion project to solve the most ambitious problems in Mali. In using expertise in Intelligent Systems, Automation, and Computer Networks the initiative aims to challenge the currently under-developed Malian tech landscape. ml.sftwrs would like to introduce – the aforementioned fields in the day to day life of Malians. ml.sftwrs’ goal is grandiose but even achieving a fraction of this goal could lead to a domino effect that could to change an otherwise obscure future for a growing nation.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We’ve reached the conclusion of this introductory post, briefly ml.sftwrs is an initiative set in motion as a passion project to solve the most ambitious problems in Mali. In using expertise in Intelligent Systems, Automation, and Computer Networks the initiative aims to challenge the currently under-developed Malian tech landscape. ml.sftwrs would like to introduce – the aforementioned fields in the day to day life of Malians. ml.sftwrs’ goal is grandiose but even achieving a fraction of this goal could lead to a domino effect that could to change an otherwise obscure future for a growing nation.
 
 ### Sources
 
